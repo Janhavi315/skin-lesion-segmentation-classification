@@ -173,3 +173,5 @@ skin_lesion_project/
 - No HAM10000 dataset was supplied with the project request, so model training, accuracy numbers and a real sample analysis report could not be produced honestly.
 - The source files are checked for Python syntax in this package build, but you should run dataset verification and training on your machine.
 - This project is for learning and demonstration only. It is not clinically validated and must not be used for diagnosis or treatment decisions.
+# skin-lesion-segmentation-classification
+Skin lesion segmentation and classification using machine learning and deep learning with a Streamlit interface.
