@@ -1,0 +1,6 @@
+cd "C:\Users\User\OneDrive\Desktop\skin_lesion_project"
+
+.\.venv\Scripts\Activate.ps1
+
+python -m streamlit run app.py
+
